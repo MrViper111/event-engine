@@ -1,0 +1,18 @@
+# Local build directories and generated CMake files
+/build/
+/build-*/
+/cmake-build-*/
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+Testing/
+compile_commands.json
+
+# IDE and operating system files
+.idea/
+.vscode/
+.DS_Store
+
+# Other useless stuff
+README.md
+/tests
